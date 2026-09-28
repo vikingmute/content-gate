@@ -1,0 +1,7 @@
+interface:
+  display_name: "Content Gate"
+  short_description: "People-first pre-publish checklist for blogs and guides"
+  default_prompt: "Use $content-gate to run the people-first publish checklist on this article."
+
+policy:
+  allow_implicit_invocation: true
