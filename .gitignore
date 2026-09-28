@@ -1,0 +1,12 @@
+.DS_Store
+
+# Local editor and OS files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Runtime caches
+.cache/
+.tmp/
+tmp/
