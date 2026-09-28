@@ -19,6 +19,18 @@ quality over page count and refuses search-engine-first shortcuts.
 It is generic: use it on blogs and guides for any site. It does not assume a
 product brand.
 
+## Output
+
+Use `assets/templates/gate_report.md` for the write-up. Record:
+
+- `pass`, `conditional`, or `fail`
+- the one-sentence Why
+- Who / How / Why, hard stops, and the pre-publish checklist
+- a fix plan when the verdict is conditional
+
+Put that checklist in the PR or review notes. Titles and metadata alone do
+not pass the gate.
+
 ## Installation
 
 Install from GitHub with the Skills CLI:

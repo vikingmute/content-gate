@@ -135,3 +135,12 @@ scores to justify a pass.
   head-to-head scores
 - Not a substitute for the project’s own locked guidelines when those exist
 - Not black-hat SEO, ranking manipulation, or scaled thin-content advice
+
+## 10. Sources
+
+Cite these Google Search Central pages; do not substitute unofficial SEO blogs.
+
+- [Creating helpful, reliable, people-first content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)
+- [Guidance on generative AI content](https://developers.google.com/search/docs/fundamentals/using-gen-ai-content)
+- [Spam policies for Google web search](https://developers.google.com/search/docs/essentials/spam-policies)
+- [Google Search Essentials](https://developers.google.com/search/docs/essentials)
